@@ -27,4 +27,4 @@ php artisan migrate:fresh --seed
 6-Ejecuta el comando: php artisan serve
 
 Abre en el navegador: http://127.0.0.1:8000/pacientes
-Escribe en José Páez
+
